@@ -1,0 +1,1 @@
+A functional ecommmerce website with Django as the backend.
